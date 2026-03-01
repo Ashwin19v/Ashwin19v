@@ -111,11 +111,6 @@
 ---
 
 
-## 🧠 Problem Solving (LeetCode)
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/ashwin19v?theme=dark&font=baloo&ext=heatmap" />
-</p>
 
 
 ---
