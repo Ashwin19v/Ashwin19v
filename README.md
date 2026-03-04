@@ -3,7 +3,7 @@
 
 <!-- HEADER -->
 <h1 align="center">🚀 Hi 👋, I'm Ashwin V</h1>
-<h3 align="center">🌌 Full Stack Developer | AI Engineer | DevOps Learner</h3>
+<h3 align="center">🌌 Full Stack Developer | AI Engineer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+Scalable+Systems+🚀;AI+%2B+Full+Stack+Engineer+🤖;DevOps+Enthusiast+☁️;Always+Learning+💡" />
@@ -16,7 +16,7 @@
 - 💻 Full Stack Developer (MERN + Next.js)
 - 📱 Mobile Developer (React Native + Flutter)
 - 🤖 Building with **LLMs, RAG & AI Agents**
-- ☁️ Learning **AWS, DevOps & System Design**
+- ☁️ Learning **AWS & System Design**
 - 🎯 Goal: Become a **Top Software Engineer (FAANG level)**
 
 ---
