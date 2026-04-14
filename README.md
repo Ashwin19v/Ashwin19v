@@ -90,9 +90,13 @@
 ---
 
 📝 **Next.js Blog Platform**  
-• SEO-optimized modern blog system with dynamic routing  
-• Features: authentication, markdown support, content management  
-• Tech: Next.js + Tailwind 
+• Built a high-performance SEO-optimized blogging platform with dynamic routing  
+• Implemented authentication, markdown-based content creation, and CMS features  
+• Optimized for fast loading and search engine visibility  
+• Tech Stack: Next.js, Tailwind CSS, MongoDB    
+
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-black?style=for-the-badge&logo=github)](https://github.com/Ashwin19v/next-blog)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue?style=for-the-badge&logo=vercel)](https://next-blog-woad-five.vercel.app/)
 
 ---
 
