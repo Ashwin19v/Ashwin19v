@@ -87,6 +87,8 @@
 • Features: task tracking, collaboration, role-based access, real-time updates  
 • Tech: Next JS + Socket.IO + FastApi + Prisma  
 
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-black?style=for-the-badge&logo=github)](https://github.com/Ashwin19v/next-blog)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue?style=for-the-badge&logo=vercel)](https://next-blog-woad-five.vercel.app/)
 ---
 
 📝 **Next.js Blog Platform**  
@@ -104,6 +106,7 @@
 • Movie tracking & review app inspired by Letterboxd  
 • Features: watchlist, ratings, reviews, UI animations  
 • Tech: Flutter + Firebase  
+[![GitHub](https://github.com/Ashwin19v/Letterboxd-Flutter)
 
 ---
 
@@ -112,6 +115,8 @@
 • Features: authentication, cart management, CRUD operations  
 • Tech: MongoDB + Express + React + Node + Socket.IO
 
+[![GitHub](https://github.com/Ashwin19v/MERN-Food-cart)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue?style=for-the-badge&logo=vercel)](https://next-blog-woad-five.vercel.app/)
 ---
 
 
