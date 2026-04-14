@@ -107,7 +107,7 @@
 • Features: watchlist, ratings, reviews, UI animations  
 • Tech: Flutter + Firebase  
 
-[![GitHub](https://github.com/Ashwin19v/Letterboxd-Flutter)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-black?style=for-the-badge&logo=github)](https://github.com/Ashwin19v/Letterboxd-Flutter)
 
 ---
 
@@ -116,9 +116,9 @@
 • Features: authentication, cart management, CRUD operations  
 • Tech: MongoDB + Express + React + Node + Socket.IO
 
- [![GitHub](https://github.com/Ashwin19v/MERN-Food-cart)
- [![Live Demo](https://mern-food-cart.vercel.app/)
- [![Live Demo-admin](https://mern-food-cart.vercel.app/)
+ [![GitHub](https://img.shields.io/badge/GitHub-View%20Code-black?style=for-the-badge&logo=github)] (https://github.com/Ashwin19v/MERN-Food-cart)
+ [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue?style=for-the-badge&logo=vercel)(https://mern-food-cart.vercel.app/)
+ [![Live Demo-admin](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue?style=for-the-badge&logo=vercel)(https://mern-food-cart.vercel.app/)
 ---
 
 
