@@ -117,7 +117,8 @@
 • Tech: MongoDB + Express + React + Node + Socket.IO
 
  [![GitHub](https://github.com/Ashwin19v/MERN-Food-cart)
- [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue?style=for-the-badge&logo=vercel)](https://next-blog-woad-five.vercel.app/)
+ [![Live Demo](https://mern-food-cart.vercel.app/)
+ [![Live Demo-admin](https://mern-food-cart.vercel.app/)
 ---
 
 
