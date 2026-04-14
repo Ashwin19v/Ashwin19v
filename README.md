@@ -121,6 +121,10 @@
 <a href="https://www.linkedin.com/in/ashwin-v-097b09262">
   <img src="https://img.shields.io/badge/LinkedIn-Ashwin%20V-blue?style=for-the-badge&logo=linkedin" />
 </a>
+
+<a href="https://ash-portfolio-dun.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-00c4cc?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 </p>
 
 ---
