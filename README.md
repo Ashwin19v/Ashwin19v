@@ -91,6 +91,15 @@
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue?style=for-the-badge&logo=vercel)](https://next-blog-woad-five.vercel.app/)
 ---
 
+## 🚀 **AI Resume Parser & Analyzer**
+• Built an AI-powered platform to parse, analyze, and optimize resumes using LLMs
+• Features: resume extraction, ATS scoring, RAG-based suggestions, AI chatbot for improvements
+• Tech: FastAPI + React + LangChain + FAISS + Sentence Transformers + Groq LLM + Firebase
+
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-black?style=for-the-badge&logo=github)](https://github.com/Ashwin19v/AI-ResumeParser)
+
+---
+
 📝 **Next.js Blog Platform**  
 • Built a high-performance SEO-optimized blogging platform with dynamic routing  
 • Implemented authentication, markdown-based content creation, and CMS features  
