@@ -97,7 +97,6 @@
 • Tech: FastAPI + React + LangChain + FAISS + Sentence Transformers + Groq LLM + Firebase
 
 [![GitHub](https://img.shields.io/badge/GitHub-View%20Code-black?style=for-the-badge&logo=github)](https://github.com/Ashwin19v/AI-ResumeParser)
-
 ---
 
 📝 **Next.js Blog Platform**  
